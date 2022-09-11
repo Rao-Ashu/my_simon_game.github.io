@@ -112,7 +112,7 @@ function restart() {
 
   setTimeout(function () {
     $("h1").text("It's okay, Press a Key to Restart!💪");
-  }, 1000);
+  }, 1500);
 
 
 
